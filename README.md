@@ -7,6 +7,9 @@ Here are the names of the team members for GROUP 9
 Group 9 Project Assignment Members
 
 1. Oduro Thompson - 052441360132
-2.Johnson Asante - 052443070030
-3.Akunah Benjamin _052441360307
-4.Hededzi Dovene Nancy -052441360185
+   
+2. Johnson Asante - 052443070030
+
+3. Akunah Benjamin _052441360307
+
+4. Hededzi Dovene Nancy -052441360185
